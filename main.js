@@ -1,4 +1,4 @@
-// Opdracht variabelen
+// Opdracht variabelen, Hoofdstuk 2.1
 
 const userName = "Hazret";
 let currentTemp = 20;
@@ -9,7 +9,7 @@ alert(`Hallo ${userName}, het is nu ${currentTemp} graden`);
 currentTemp += 5;
 console.log(currentTemp)
 
-// Opdracht interactie
+// Opdracht interactie, Hoofdstuk 2.2
 
 const askedName = prompt("Wat is je naam?");
 alert(askedName)
